@@ -1,0 +1,9 @@
+E:\Inventory Mangement System\Inventory\Inventory.Data\bin\Debug\netstandard2.0\Inventory.Data.deps.json
+E:\Inventory Mangement System\Inventory\Inventory.Data\bin\Debug\netstandard2.0\Inventory.Data.dll
+E:\Inventory Mangement System\Inventory\Inventory.Data\obj\Debug\netstandard2.0\Inventory.Data.csprojAssemblyReference.cache
+E:\Inventory Mangement System\Inventory\Inventory.Data\obj\Debug\netstandard2.0\Inventory.Data.csproj.CoreCompileInputs.cache
+E:\Inventory Mangement System\Inventory\Inventory.Data\obj\Debug\netstandard2.0\Inventory.Data.AssemblyInfoInputs.cache
+E:\Inventory Mangement System\Inventory\Inventory.Data\obj\Debug\netstandard2.0\Inventory.Data.AssemblyInfo.cs
+E:\Inventory Mangement System\Inventory\Inventory.Data\bin\Debug\netstandard2.0\Inventory.Data.pdb
+E:\Inventory Mangement System\Inventory\Inventory.Data\obj\Debug\netstandard2.0\Inventory.Data.dll
+E:\Inventory Mangement System\Inventory\Inventory.Data\obj\Debug\netstandard2.0\Inventory.Data.pdb
